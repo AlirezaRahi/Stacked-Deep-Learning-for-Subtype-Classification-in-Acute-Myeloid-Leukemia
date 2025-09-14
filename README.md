@@ -2,9 +2,9 @@
 
 This repository contains the implementation of our research on AML subtype classification using ensemble deep learning approaches on microarray expression data.
 
-**Publication**: [Ensemble Deep Learning for AML Subtype Classification from Gene Expression Data](https://www.medrxiv.org/content/10.1101/2025.08.12.25333539v1)  
-**DOI**: https://doi.org/10.1101/2025.08.12.25333539  
-**Publication Date**: August 12, 2025
+**Publication**:  
+**DOI**:
+**Publication Date**:
 
 ##  Abstract
 
