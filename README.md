@@ -2,8 +2,10 @@
 
 This repository contains the implementation of our research on AML subtype classification using ensemble deep learning approaches on microarray expression data.
 
+## Publication
 **Publication**: https://zenodo.org/records/17115914  ---->"Stacked Deep Learning for Subtype Classification in Acute Myeloid Leukemia" 
 **DOI**:https:https://doi.org/10.5281/zenodo.17115914
+
 **Publication Date**:2025/09/14
 
 ##  Abstract
@@ -71,6 +73,19 @@ Due to the sensitive nature of the trained models and intellectual property prot
 The complete source code for training, evaluation, and ensemble implementation is provided, allowing researchers to replicate our results exactly.
 
 If you require access to the pre-trained models for academic collaboration or research verification, please contact me directly.
+
+
+## Citation
+
+If you use this work or dataset in your research, please cite:
+
+> **Rahi, A.** (2025). *Stacked Deep Learning for Subtype Classification in Acute Myeloid Leukemia*. Zenodo. https://doi.org/10.5281/zenodo.17115914 ([zenodo.org](https://zenodo.org/records/17115914))
+
+If you use the code implementation or GitHub repo, please also cite:
+
+> **Rahi, A.** (2025). *Stacked Deep Learning for Subtype Classification in Acute Myeloid Leukemia* [Computer software / dataset code]. GitHub repository, *AlirezaRahi/Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia*. Retrieved from https://github.com/AlirezaRahi/Stacked-Deep-Learning-for-Subtype-Classification-in-Acute-Myeloid-Leukemia
+
+
 
 ## 👨 Author
 
